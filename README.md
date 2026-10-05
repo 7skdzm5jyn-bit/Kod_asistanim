@@ -1,3 +1,4 @@
+proje yazarı:Murat seenli
 # Kod_asistanim
 #projenin adı:Kod-Asistan v0.1
 ##projenin amacı:Kullanucılara günlük işlerinde yardımcı olacak bir dijital asistan tasarlanak
